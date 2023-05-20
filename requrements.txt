@@ -1,0 +1,10 @@
+yfinance --upgrade --no-cache-dir
+transformers
+os
+pandas
+numpy
+requests
+yfinance
+matplotlib
+networkx
+tensorflow
